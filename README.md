@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 
 <p>
 Proven Software Engineer that thrives in collaborative environments and effectively delivers products under tight deadlines. My expertise includes collaborating with a team of 5+ developers and 3 designers to develop an application, such as HotZone, that streamlines the workflow of firefighters by providing them with essential medical information during emergencies. Always seeking an opportunity to expand my knowledge, I completed a rigorous 1,000+ hour coding Bootcamp focused on Javascript and React.js, where I was invited to return as a teaching assistant. I am now looking to continue my career by taking on more challenging projects and building dependable websites that improve people’s lives.
+
 </p>
 
 <p>👀 View my portfolio here: [Portfolio](https://www.nyjiascott.com/)</p>
+<p>📝 Check my resume out here: [Nyjia's Resume](https://github.com/nks397/nks397/files/11853619/Nyjia.s_Resume.1.pdf)</p>
 <p>💬 Message me here: [Linkedin](https://www.linkedin.com/in/meet-jason-humphrey/)</p>
 <p>📫 Reach me via email: [nkscott97@gmail.com]</p>
 
