@@ -28,7 +28,6 @@ Proven Software Engineer that thrives in collaborative environments and effectiv
 <p>
 📫 Reach me via email: [nkscott97@gmail.com]
 </p>
-<br />
 ![Nyjia's github stats](https://github-readme-stats.vercel.app/api?username=nks397&show_icons=true&theme=dark)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nks397&layout=compact)](https://github.com/nks397/github-readme-stats)
