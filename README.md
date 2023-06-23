@@ -25,6 +25,6 @@ Proven Software Engineer that thrives in collaborative environments and effectiv
 
 <p>👀 View my portfolio here: [Portfolio](https://www.nyjiascott.com/)</p>
 <p>📝 Check my resume out here: [Nyjia's Resume](https://github.com/nks397/nks397/files/11853619/Nyjia.s_Resume.1.pdf)</p>
-<p>💬 Message me here: [Linkedin](https://www.linkedin.com/in/meet-jason-humphrey/)</p>
+<p>💬 Message me here: [Linkedin](https://www.linkedin.com/in/nyjia-scott/)</p>
 <p>📫 Reach me via email: [nkscott97@gmail.com]</p>
 
