@@ -67,6 +67,6 @@ Proven Software Engineer that thrives in collaborative environments and effectiv
   
 | *GitHub Stats* | *Top Languages* |
 |--------------|---------------|
-| ![Nyjia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nks397&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nks397&layout=compact&theme=cobalt)](https://github.com/nks397/github-readme-stats) |
+| ![Nyjia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nks397&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nks397&layout=compact&theme=tokyonight)](https://github.com/nks397/github-readme-stats) |
 
 </div>
