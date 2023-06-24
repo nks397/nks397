@@ -40,7 +40,7 @@ Proven Software Engineer that thrives in collaborative environments and effectiv
   📬 Contact me via email: [nkscott97@gmail.com](mailto:nkscott97@gmail.com)
 </p>
 
-<h3 align="center">Technology Stack</h3>
+*<h3 align="center">Technology Stack:</h3>*
 
 <div align="center">
 <img title="HTML5" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="50" />
@@ -56,13 +56,13 @@ Proven Software Engineer that thrives in collaborative environments and effectiv
 <img title="Material UI" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="mui" width="60" />
 </div>
 
-<h3 align="center">Currently Learning</h3>
+*<h3 align="center">Currently Learning:</h3>*
 <div align="center">
 <img title="PHP" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="80" />
 <img title="WordPress" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" alt="wordpress" width="50" />
 </div>
 
-<h3 align="center">GitHub Stats</h3>
+*<h3 align="center">GitHub Stats:</h3>*
 
 <div align="center">
   
