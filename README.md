@@ -34,10 +34,10 @@ Proven Software Engineer that thrives in collaborative environments and effectiv
 <img title="Node.js" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="90" />
 <img title="Express.js" src="https://www.svgrepo.com/show/330398/express.svg" alt="express" width="60" />
 <img title="Mongoose.js" src="https://img.icons8.com/?size=512&id=gKfcEStXI1Hm&format=png" alt="mongoose" width="70" />
-<img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" />
+<img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="58" />
 <img title="Git" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="51" />
 <img title="Firebase" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="40" />
-
+<img title="Material UI" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="mui" width="60" />
 </div>
 
 <h4>Currently Learning:</h4>
