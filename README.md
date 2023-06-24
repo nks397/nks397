@@ -1,4 +1,8 @@
-<h1 align="center">Hello, I'm Nyjia 
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Nyjia)](https://git.io/typing-svg)
+!-->
+<h1 align="center">
+  Hello, I'm Nyjia 
 <img src="https://sdk.bitmoji.com/render/panel/10211812-342603528_13-s1-v1.png?transparent=1&palette=1&scale=2" width="65"/>
 </h1> 
 
@@ -19,7 +23,6 @@ Here are some ideas to get you started:
 <p>
 Proven Software Engineer that thrives in collaborative environments and effectively delivers products under tight deadlines. My expertise includes collaborating with a team of 5+ developers and 3 designers to develop an application, such as HotZone🚒, that streamlines the workflow of firefighters by providing them with essential medical information during emergencies. Always seeking an opportunity to expand my knowledge, I completed a rigorous 1,000+ hour coding Bootcamp focused on Javascript and React.js, where I was invited to return as a teaching assistant. I am now looking to continue my career by taking on more challenging projects and building dependable websites that improve people’s lives.
 </p>
-
 <p>
   
   🧭 Explore my portfolio: [Portfolio](https://www.nyjiascott.com/)
