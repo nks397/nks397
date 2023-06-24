@@ -40,7 +40,7 @@ Proven Software Engineer that thrives in collaborative environments and effectiv
   📬 Contact me via email: [nkscott97@gmail.com](mailto:nkscott97@gmail.com)
 </p>
 
-*<h3>Technology Stack:</h3>*
+<h2>Technology Stack</h2>
 
 <div>
 <img title="HTML5" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="50" />
@@ -56,7 +56,7 @@ Proven Software Engineer that thrives in collaborative environments and effectiv
 <img title="Material UI" src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="mui" width="60" />
 </div>
 
-*<h3>Currently Learning:</h3>*
+<h2>Currently Learning</h2>
 <div>
 <img title="PHP" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="80" />
 <img title="WordPress" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" alt="wordpress" width="50" />
@@ -65,7 +65,7 @@ Proven Software Engineer that thrives in collaborative environments and effectiv
 <div>
   <br/>
   
-| *GitHub Stats* | *Top Languages* |
+| GitHub Stats | Top Languages |
 |--------------|---------------|
 | ![Nyjia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nks397&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nks397&layout=compact&theme=tokyonight)](https://github.com/nks397/github-readme-stats) |
 
