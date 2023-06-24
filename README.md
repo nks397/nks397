@@ -27,18 +27,24 @@ Proven Software Engineer that thrives in collaborative environments and effectiv
 
 <h4>Technology Stack:</h4>
 <div>
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="js" width="56" />
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="90" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="55" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" />
-<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="40" />
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="51" />
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="github" width="51" style="color: white" />
+<img title="HTML5" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="50" />
+<img title="CSS" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="50" />
+<img title="JavaScript" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="js" width="56" />
+<img title="React.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="55" />
+<img title="Node.js" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="90" />
+<img title="Express.js" src="https://www.svgrepo.com/show/330398/express.svg" alt="express" width="60" />
+<img title="Mongoose.js" src="https://img.icons8.com/?size=512&id=gKfcEStXI1Hm&format=png" alt="mongoose" width="70" />
+<img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" />
+<img title="Git" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="51" />
+<img title="Firebase" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="40" />
+
 </div>
 
-
+<h4>Currently Learning:</h4>
+<div>
+<img title="PHP" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="80" />
+<img title="WordPress" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" alt="wordpress" width="50" />
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nks397&layout=compact)](https://github.com/nks397/github-readme-stats)
 </div>
