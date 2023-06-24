@@ -46,7 +46,12 @@ Proven Software Engineer that thrives in collaborative environments and effectiv
 <img title="WordPress" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" alt="wordpress" width="50" />
 </div>
 
+<h4>GitHub Stats:</h4>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nks397&layout=compact)](https://github.com/nks397/github-readme-stats)
-</div>
+
+![Nyjia's github stats](https://github-readme-stats.vercel.app/api?username=nks397&show_icons=true&theme=dark)
+
+
 
 
